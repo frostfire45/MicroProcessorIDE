@@ -84,9 +84,8 @@
   <ItemGroup>
     <Content Include="DataTemp\IDEPAGE.txt" />
     <Content Include="DataTemp\settings.xml" />
+    <Content Include="Media\Icon1.ico" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Media\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
